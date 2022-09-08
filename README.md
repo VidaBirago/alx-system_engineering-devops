@@ -1,1 +1,1 @@
-its all good
+0-alias is a script that assigns ls to rm*
